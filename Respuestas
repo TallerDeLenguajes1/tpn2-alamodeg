@@ -1,0 +1,3 @@
+¿Puede ver el archivo tp2_1_2.cpp?¿Por qué?
+No, el archivo no se puede ser porque al crear una rama estoy "cambiando" de ubicacion el archivo, en este caso solo permanece el ejecutable
+pero el archivo cpp se encuentra en Opcion_2
