@@ -8,12 +8,12 @@ int main(){
     double Matriz[FILA][COLUMNA];
     for(f = 0;f<FILA; f++)
     {
-        for(f = 0;f<FILA; f++)
+        for(c = 0;c<COLUMNA; c++)
         {
             printf("%lf   ", Matriz[f][c]);
         }
+        printf("\n");
     }    
-    printf("\n");
     getchar();
     return 0;
 }
