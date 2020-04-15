@@ -1,3 +1,5 @@
 ¿Puede ver el archivo tp2_1_2.cpp?¿Por qué?
 No, el archivo no se puede ser porque al crear una rama estoy "cambiando" de ubicacion el archivo, en este caso solo permanece el ejecutable
 pero el archivo cpp se encuentra en Opcion_2
+Utilice el comando gitk - –all y observe los cambios
+Se puede ver de forma grafica como van mis ramas, commits y push en el repo remoto
