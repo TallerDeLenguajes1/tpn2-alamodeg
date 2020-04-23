@@ -45,6 +45,7 @@ int main()
     MuestraVeloz(computadoras,cant_pc);
     
     scanf(" %c");
+    free(computadoras);
     return 0;
 }
 

@@ -36,6 +36,7 @@ int main()
         printf("\n");
     }
     getchar();
+    free(Matriz);
     return 0;
 }
 int Aleatorio(int min,int max){
